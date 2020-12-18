@@ -6,4 +6,4 @@
 
 
 [GitHub](https://github.com/swrainbow/css-trick)
-[Get Started](#MY-CSS)
+[Get Started](#my-css)
