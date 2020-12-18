@@ -5,5 +5,5 @@
 > 使用docsify和MarkDown
 
 
-[GitHub](http://software.myhexin.com/gitlab/shenwei/F10-CSS)
-[Get Started](#F10-CSS)
+[GitHub]()
+[Get Started](#MY-CSS)

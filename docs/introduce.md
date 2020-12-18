@@ -82,8 +82,6 @@ input:focus + .popTips{
 
 ## 色彩
 
-色彩可以参考同花顺UI规范。
-[链接](http://datav.iwencai.com/resource/page/index.html#/hxmui-doc?markpath=%2F01.Mobile%2F00.Basic%2F01.%E8%89%B2%E5%BD%A9Color.html)
-![color](https://u.thsi.cn/imgsrc/neican/d7ff7b8b3bd7226b0fd56b0c97b60ae6.png)
+
 
 !> 文档中的示例样式兼没有添加浏览器前缀做兼容，建议使用Chrome，Firefox等主流浏览器访问，在生产环境中请使用[Autoprefixer](https://www.npmjs.com/package/autoprefixer)做兼容处理。
