@@ -1,9 +1,9 @@
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# F10-CSS
+# MY-CSS
 
 > 使用docsify和MarkDown
 
 
-[GitHub]()
+[GitHub](https://github.com/swrainbow/css-trick)
 [Get Started](#MY-CSS)
