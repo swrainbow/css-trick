@@ -4,3 +4,5 @@
     - [关于hsl](/hsl.md)
 - **用户体验**
 	- [扩大可点击区域](/extend-hit-area.md)
+- **视觉效果**
+	- [圆角属性-加载动画](/border-radius-loading.md)
